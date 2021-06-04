@@ -1,4 +1,5 @@
 # Calculadora em JS
 > Projeto de uma calculadora desenvolvida em HTML, CSS e Javascript
 
-<img src="\src\JavaScript\Calculadora JS\imagem">
+ Use a calculadora 
+https://felipetsuchiya.github.io/
