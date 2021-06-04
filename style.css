@@ -1,0 +1,64 @@
+body {
+  height: 1980px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-image: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(255, 255, 255));
+  overflow: hidden;
+}
+.titulo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #ffffff;
+
+}
+.container-calc {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 256px;
+  height: 400px;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  background-color: rgb(17, 17, 17);
+  box-shadow: 3px 3px 1px 0px #444651;
+
+}
+#visor {
+  width: 236px;
+  height: 70px;
+  margin: 10px;
+  padding: 1px;
+  border: 1px solid #000000;
+  background-color: white;
+  border-radius: 10px;
+  box-shadow: 3px 3px 1px 0px #444651;
+  text-align: right;
+  font-size: 40px;
+  font-family: sans-serif;
+}
+.pad-numbers {
+  display: flex;
+  flex-direction: column;
+}
+.roll button {
+  width: 50px;
+  margin: 3px;
+  padding: 18px;
+  font-weight: bold;
+  border-radius: 10px;
+  box-shadow: 3px 3px 1px 0px #444651;
+  background-color: rgb(212, 212, 212);
+  cursor: pointer;
+  font-family: sans-serif;
+
+  transition: 0.5s ease;
+}
+.roll button:hover {
+  background-color: darkgrey;
+}
+#zero {
+  width: 110px;
+}
+#blank {
+  font-family: sans-serif;
+}
