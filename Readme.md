@@ -3,4 +3,4 @@
 
 Uma calculadora desenvolvida em Javascript e Estilizada em HTML e CSS
 
-https://felipetsuchiya.github.io/Calculadora-JS/
+https://felipetsuchiya.github.io/CalculadoraJS/
